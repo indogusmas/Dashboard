@@ -49,7 +49,7 @@
                     <span class="notification-title">Notifications</span>
                     <a href="javascript:void(0)" class="clear-noti"> Clear All </a>
                 </div>
-                <div class="noti-content">
+                {{-- <div class="noti-content">
                     <ul class="notification-list">
                         <li class="notification-message">
                             <a href="#">
@@ -119,10 +119,10 @@
                             </a>
                         </li>
                     </ul>
-                </div>
-                <div class="topnav-dropdown-footer">
+                </div> --}}
+                {{-- <div class="topnav-dropdown-footer">
                     <a href="#">View all Notifications</a>
-                </div>
+                </div> --}}
             </div>
         </li>
 
